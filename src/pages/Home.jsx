@@ -2,9 +2,9 @@ import { Link } from "react-router-dom";
 
 export default function Home() {
   return (
-    <div className="min-h-screen bg-gradient-to-br from-indigo-600 to-purple-600 flex items-center justify-center px-4">
+    <div className="min-h-screen bg-gradient-to-br from-indigo-300 to-purple-300 flex items-center justify-center px-4">
       <div className="max-w-xl text-center text-white space-y-6">
-        <h1 className="text-5xl font-extrabold">Welcome to YourAppName</h1>
+        <h1 className="text-5xl font-extrabold">Welcome to Churchy.Manage</h1>
         <p className="text-lg opacity-90">
           A short, compelling tagline goes here. Describe what your app does and
           why people will love it.
